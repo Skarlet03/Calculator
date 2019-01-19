@@ -1,5 +1,8 @@
 public class Calculator {
 
+    public static void main(String[] args) {
+        //added main method
+    }
     //this is a very useful method
     public  static double add(double num1, double num2){
         return num1+num2;
